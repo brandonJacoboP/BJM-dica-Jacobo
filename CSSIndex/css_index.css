@@ -208,6 +208,19 @@ background-repeat: no-repeat;
     
 }
 
+.afiliados1:hover{
+    height: 100%;
+    width: 100%;
+background-image: url("../Imagenes/Hospital\ Alberta.jpg");
+background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 70%;
+
+
+}
+
 .afiliados2{
     height: 100%;
     width: 33%;
@@ -220,6 +233,19 @@ background-repeat: no-repeat;
     height: 100%;
 }
 
+.afiliados2:hover{
+    height: 100%;
+    width: 100%;
+background-image: url("../Imagenes/Hospital\ Angeles.jpg");
+background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 70%;
+
+
+}
+
 .afiliados3{
     height: 100%;
     width: 33%;
@@ -230,6 +256,19 @@ background-repeat: no-repeat;
     background-size: cover;
     opacity: 70%;
     height: 100%;
+}
+
+.afiliados3:hover{
+    height: 100%;
+    width: 100%;
+background-image: url("../Imagenes/Hospital\ Latino.jpg");
+background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 70%;
+
+
 }
 
 .afiliados p{
